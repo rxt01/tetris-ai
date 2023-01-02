@@ -1,8 +1,8 @@
 beta(for 1.0){
 	finish the main part of the game;
-  make the android version;
-  make the installer;
-	add credits;
+ 	make the android version;
+ 	make the installer;
+ 	add credits;
 }
 
 release(1.x){}
