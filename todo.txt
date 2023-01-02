@@ -1,0 +1,11 @@
+beta(for 1.0){
+	finish the main part of the game;
+  make the android version;
+  make the installer;
+	add credits;
+}
+
+release(1.x){}
+beta(for 2.0){
+	make the ai part of the game;
+	make the play store version of the android version;
