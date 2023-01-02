@@ -1,0 +1,7 @@
+asks you what version you want
+possible answers:
+("release-" or "V") folowed by the version number(x.y), to get a certain release version
+("beta-" or "B") folowed by the version number(x.y.z), to get a certain beta version
+the version number(x.y for release, x.y.z for beta) to get that version
+"release-latest" for the latest release version
+"beta-latest" for the latest version 
