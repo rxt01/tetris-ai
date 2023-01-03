@@ -1,5 +1,9 @@
 beta(for 1.0){
-	finish the main part of the game;
+	finish the main part of the game{
+		add sounds;
+		patch the bugs;
+		
+	};
  	make the android version;
  	make the installer;
  	add credits;
