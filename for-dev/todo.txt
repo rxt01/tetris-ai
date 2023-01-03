@@ -9,7 +9,9 @@ beta(for 1.0){
  	add credits;
 }
 
-release(1.x){}
+release(1.x){
+	add a leaderboard;
+}
 beta(for 2.0){
 	make the ai part of the game;
 	make the play store version of the android version;
