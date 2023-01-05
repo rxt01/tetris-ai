@@ -1,0 +1,5 @@
+{
+	"FPS" : 60,
+	"PCHEIGHT": 640,
+	"//comment": "height should be a multiple or a divisor of 640 for better scaling"
+}

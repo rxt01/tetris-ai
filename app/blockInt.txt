@@ -1,0 +1,8 @@
+none=0,
+longboys=1,
+square=2,
+sonofabitch1=3,
+sonofabitch2=4,
+l1=5,
+l2=6,
+t=7
