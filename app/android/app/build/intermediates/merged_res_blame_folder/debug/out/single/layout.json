@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-mergeDebugResources-39:\\layout\\activity_rxt01.xml",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-main-42:\\layout\\activity_rxt01.xml"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-mergeDebugResources-39:\\layout\\update_widget.xml",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-main-42:\\layout\\update_widget.xml"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-mergeDebugResources-39:\\layout\\activity_play.xml",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-main-42:\\layout\\activity_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-mergeDebugResources-39:\\layout\\activity_ai.xml",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-main-42:\\layout\\activity_ai.xml"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-mergeDebugResources-39:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-main-42:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-mergeDebugResources-39:\\layout\\activity_settings.xml",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-main-42:\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "com.rxt01.tetrisai.app-mergeDebugResources-39:/layout/activity_play.xml",
+        "source": "com.rxt01.tetrisai.app-main-42:/layout/activity_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-mergeDebugResources-39:\\layout\\activity_credit.xml",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-main-42:\\layout\\activity_credit.xml"
+    }
+]

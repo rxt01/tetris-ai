@@ -1,0 +1,762 @@
+[
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xxxhdpi_z2.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xxxhdpi\\z2.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-mdpi_ic_tetris.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-mdpi\\ic_tetris.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-main-42:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xxhdpi_z1.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xxhdpi\\z1.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xxxhdpi_longboy.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xxxhdpi\\longboy.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-mdpi_l2_round.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-mdpi\\l2_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xxxhdpi_empty.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xxxhdpi\\empty.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xhdpi_l2_foreground.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xhdpi\\l2_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xxhdpi_l2_foreground.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xxhdpi\\l2_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-anydpi-v26_l2_round.xml.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-anydpi-v26\\l2_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-mdpi_z1.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-mdpi\\z1.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xhdpi_longboy_round.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xhdpi\\longboy_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-hdpi_ic_tetris_foreground.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-hdpi\\ic_tetris_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-main-42:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xxhdpi_ic_tetris_foreground.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xxhdpi\\ic_tetris_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\layout_activity_play.xml.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-main-42:\\layout\\activity_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-mdpi_longboy_foreground.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-mdpi\\longboy_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-main-42:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-mdpi_z2.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-mdpi\\z2.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xxhdpi_ic_tetris.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xxhdpi\\ic_tetris.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xhdpi_ic_tetris.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xhdpi\\ic_tetris.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\drawable-v24_github_logo.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-main-42:\\drawable-v24\\github_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xxhdpi_longboy_round.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xxhdpi\\longboy_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-mdpi_longboy.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-mdpi\\longboy.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-anydpi-v26_l1.xml.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-anydpi-v26\\l1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xhdpi_z1_round.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xhdpi\\z1_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-hdpi_empty_round.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-hdpi\\empty_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-hdpi_l1.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-hdpi\\l1.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-main-42:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-mdpi_empty_foreground.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-mdpi\\empty_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xhdpi_t_foreground.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xhdpi\\t_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xxhdpi_block.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xxhdpi\\block.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xxxhdpi_l2_round.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xxxhdpi\\l2_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xhdpi_empty_foreground.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xhdpi\\empty_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-anydpi-v26_t_round.xml.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-anydpi-v26\\t_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xhdpi_z2_foreground.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xhdpi\\z2_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-main-42:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xxxhdpi_z1.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xxxhdpi\\z1.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xxxhdpi_block_round.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xxxhdpi\\block_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-main-42:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-hdpi_t_round.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-hdpi\\t_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xhdpi_ic_tetris_foreground.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xhdpi\\ic_tetris_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xxhdpi_ic_tetris_round.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xxhdpi\\ic_tetris_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-mdpi_block_foreground.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-mdpi\\block_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-main-42:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-hdpi_z2.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-hdpi\\z2.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-hdpi_longboy_foreground.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-hdpi\\longboy_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-hdpi_l2.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-hdpi\\l2.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xhdpi_z1_foreground.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xhdpi\\z1_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\raw_level4_6.mp3.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-main-42:\\raw\\level4_6.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-hdpi_block_round.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-hdpi\\block_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xxhdpi_z1_foreground.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xxhdpi\\z1_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xhdpi_l1_round.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xhdpi\\l1_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xhdpi_z2.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xhdpi\\z2.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\drawable-v21_app_widget_background.xml.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-main-42:\\drawable-v21\\app_widget_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\drawable-nodpi_example_appwidget_preview.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-main-42:\\drawable-nodpi\\example_appwidget_preview.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-anydpi-v26_block.xml.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-anydpi-v26\\block.xml"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-mdpi_l1_foreground.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-mdpi\\l1_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\drawable-v24_icon.PNG.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-main-42:\\drawable-v24\\icon.PNG"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xxhdpi_longboy.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xxhdpi\\longboy.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-main-42:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-anydpi-v26_longboy.xml.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-anydpi-v26\\longboy.xml"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\drawable-v21_app_widget_inner_view_background.xml.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-main-42:\\drawable-v21\\app_widget_inner_view_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xhdpi_longboy_foreground.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xhdpi\\longboy_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xxhdpi_l1_foreground.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xxhdpi\\l1_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-hdpi_ic_tetris_round.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-hdpi\\ic_tetris_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-main-42:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\raw_infinity.mp3.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-main-42:\\raw\\infinity.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-hdpi_block.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-hdpi\\block.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-anydpi-v26_ic_tetris.xml.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-anydpi-v26\\ic_tetris.xml"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xhdpi_l1_foreground.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xhdpi\\l1_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-main-42:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-hdpi_empty.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-hdpi\\empty.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-hdpi_z1.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-hdpi\\z1.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xxhdpi_z2.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xxhdpi\\z2.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xhdpi_longboy.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xhdpi\\longboy.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-mdpi_l1_round.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-mdpi\\l1_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-hdpi_t.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-hdpi\\t.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-anydpi-v26_z1_round.xml.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-anydpi-v26\\z1_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-anydpi-v26_z2.xml.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-anydpi-v26\\z2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-anydpi-v26_empty.xml.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-anydpi-v26\\empty.xml"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-hdpi_empty_foreground.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-hdpi\\empty_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-hdpi_longboy_round.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-hdpi\\longboy_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\raw_level1_3.mp3.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-main-42:\\raw\\level1_3.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xxhdpi_empty_foreground.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xxhdpi\\empty_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\raw_level7_9.mp3.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-main-42:\\raw\\level7_9.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xxxhdpi_z2_round.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xxxhdpi\\z2_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-mdpi_empty.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-mdpi\\empty.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-mdpi_block.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-mdpi\\block.png"
+    },
+    {
+        "merged": "com.rxt01.tetrisai.app-merged_res-40:/layout_activity_play.xml.flat",
+        "source": "com.rxt01.tetrisai.app-main-42:/layout/activity_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xhdpi_block.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xhdpi\\block.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-anydpi-v26_l2.xml.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-anydpi-v26\\l2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xhdpi_empty.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xhdpi\\empty.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xxxhdpi_empty_round.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xxxhdpi\\empty_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xxxhdpi_longboy_round.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xxxhdpi\\longboy_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-hdpi_z2_foreground.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-hdpi\\z2_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-hdpi_block_foreground.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-hdpi\\block_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xxhdpi_block_round.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xxhdpi\\block_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xxxhdpi_l1_round.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xxxhdpi\\l1_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-main-42:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xxxhdpi_empty_foreground.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xxxhdpi\\empty_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-hdpi_longboy.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-hdpi\\longboy.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\layout_activity_ai.xml.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-main-42:\\layout\\activity_ai.xml"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xhdpi_t_round.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xhdpi\\t_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xxhdpi_l1.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xxhdpi\\l1.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xxxhdpi_l2.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xxxhdpi\\l2.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xxxhdpi_ic_tetris.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xxxhdpi\\ic_tetris.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xxhdpi_z2_round.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xxhdpi\\z2_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-mdpi_l2.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-mdpi\\l2.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xhdpi_empty_round.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xhdpi\\empty_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xhdpi_l1.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xhdpi\\l1.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-anydpi-v26_ic_tetris_round.xml.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-anydpi-v26\\ic_tetris_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-mdpi_block_round.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-mdpi\\block_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xxxhdpi_l1_foreground.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xxxhdpi\\l1_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xxhdpi_block_foreground.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xxhdpi\\block_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xxxhdpi_block_foreground.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xxxhdpi\\block_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xxxhdpi_block.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xxxhdpi\\block.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\raw_level13_15.mp3.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-main-42:\\raw\\level13_15.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xhdpi_l2_round.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xhdpi\\l2_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-mdpi_t_foreground.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-mdpi\\t_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-mdpi_ic_tetris_foreground.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-mdpi\\ic_tetris_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-mdpi_longboy_round.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-mdpi\\longboy_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xxhdpi_t.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xxhdpi\\t.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-mdpi_z1_round.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-mdpi\\z1_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-anydpi-v26_t.xml.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-anydpi-v26\\t.xml"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xxhdpi_empty.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xxhdpi\\empty.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\layout_update_widget.xml.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-main-42:\\layout\\update_widget.xml"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-hdpi_z2_round.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-hdpi\\z2_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-hdpi_l1_round.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-hdpi\\l1_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-anydpi-v26_empty_round.xml.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-anydpi-v26\\empty_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-main-42:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xxxhdpi_t_round.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xxxhdpi\\t_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xxhdpi_l2.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xxhdpi\\l2.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-mdpi_l2_foreground.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-mdpi\\l2_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-anydpi-v26_l1_round.xml.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-anydpi-v26\\l1_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xhdpi_l2.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xhdpi\\l2.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xxhdpi_l1_round.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xxhdpi\\l1_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-main-42:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-hdpi_l1_foreground.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-hdpi\\l1_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-anydpi-v26_z1.xml.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-anydpi-v26\\z1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-main-42:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xxxhdpi_t.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xxxhdpi\\t.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-mdpi_t.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-mdpi\\t.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xxxhdpi_z2_foreground.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xxxhdpi\\z2_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xhdpi_block_foreground.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xhdpi\\block_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xhdpi_block_round.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xhdpi\\block_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xxhdpi_longboy_foreground.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xxhdpi\\longboy_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-mdpi_empty_round.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-mdpi\\empty_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xxxhdpi_z1_round.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xxxhdpi\\z1_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-anydpi-v26_longboy_round.xml.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-anydpi-v26\\longboy_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\raw_level10_12.mp3.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-main-42:\\raw\\level10_12.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-main-42:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-mdpi_z2_foreground.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-mdpi\\z2_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xhdpi_z2_round.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xhdpi\\z2_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xxxhdpi_ic_tetris_round.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xxxhdpi\\ic_tetris_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\layout_activity_rxt01.xml.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-main-42:\\layout\\activity_rxt01.xml"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-main-42:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xxhdpi_z2_foreground.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xxhdpi\\z2_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xxhdpi_empty_round.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xxhdpi\\empty_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-mdpi_z1_foreground.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-mdpi\\z1_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xxhdpi_z1_round.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xxhdpi\\z1_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xhdpi_t.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xhdpi\\t.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xxhdpi_l2_round.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xxhdpi\\l2_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-mdpi_z2_round.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-mdpi\\z2_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xxxhdpi_z1_foreground.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xxxhdpi\\z1_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-hdpi_l2_foreground.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-hdpi\\l2_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-hdpi_ic_tetris.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-hdpi\\ic_tetris.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\layout_activity_credit.xml.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-main-42:\\layout\\activity_credit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-anydpi-v26_z2_round.xml.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-anydpi-v26\\z2_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xxxhdpi_ic_tetris_foreground.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xxxhdpi\\ic_tetris_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-mdpi_t_round.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-mdpi\\t_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xxxhdpi_longboy_foreground.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xxxhdpi\\longboy_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-hdpi_t_foreground.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-hdpi\\t_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xxhdpi_t_round.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xxhdpi\\t_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xhdpi_z1.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xhdpi\\z1.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xxxhdpi_l1.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xxxhdpi\\l1.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\xml_update_widget_info.xml.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-main-42:\\xml\\update_widget_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xxhdpi_t_foreground.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xxhdpi\\t_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-mdpi_l1.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-mdpi\\l1.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xhdpi_ic_tetris_round.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xhdpi\\ic_tetris_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xxxhdpi_t_foreground.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xxxhdpi\\t_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-hdpi_z1_foreground.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-hdpi\\z1_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-mdpi_ic_tetris_round.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-mdpi\\ic_tetris_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\layout_activity_settings.xml.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-main-42:\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xxxhdpi_l2_foreground.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-xxxhdpi\\l2_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-anydpi-v26_block_round.xml.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-anydpi-v26\\block_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-main-42:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-hdpi_z1_round.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-hdpi\\z1_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-main-42:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-merged_res-40:\\mipmap-hdpi_l2_round.png.flat",
+        "source": "C:\\Users\\Client\\.gradle\\daemon\\7.4\\com.rxt01.tetrisai.app-debug-41:\\mipmap-hdpi\\l2_round.png"
+    }
+]

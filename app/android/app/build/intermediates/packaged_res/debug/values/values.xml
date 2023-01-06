@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#FF1A1B26</color>
+    <color name="black">#FF000000</color>
+    <color name="block_background">#3DDC84</color>
+    <color name="empty_background">#3DDC84</color>
+    <color name="ic_tetris_background">#1A1B26</color>
+    <color name="l1_background">#3DDC84</color>
+    <color name="l2_background">#3DDC84</color>
+    <color name="light_blue_200">#FF81D4FA</color>
+    <color name="light_blue_50">#FFE1F5FE</color>
+    <color name="light_blue_600">#FF039BE5</color>
+    <color name="light_blue_900">#FF01579B</color>
+    <color name="long_background">#3DDC84</color>
+    <color name="longboy_background">#3DDC84</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="t_background">#3DDC84</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="z1_background">#3DDC84</color>
+    <color name="z2_background">#3DDC84</color>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="widget_margin">0dp</dimen>
+    <string name="add_widget">Add widget</string>
+    <string name="app_name">Tetris AI</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="title_activity_credit">CreditActivity</string>
+    <style name="Theme.TetrisAI" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        
+    </style>
+    <style name="Theme.TetrisAI.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <style name="Theme.TetrisAI.AppWidgetContainer" parent="Theme.TetrisAI.AppWidgetContainerParent">
+        
+        <item name="appWidgetPadding">16dp</item>
+    </style>
+    <style name="Theme.TetrisAI.AppWidgetContainerParent" parent="@android:style/Theme.DeviceDefault">
+        
+        <item name="appWidgetRadius">16dp</item>
+        
+        <item name="appWidgetInnerRadius">8dp</item>
+    </style>
+    <style name="Theme.TetrisAI.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.TetrisAI.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+    <style name="Widget.TetrisAI.AppWidget.Container" parent="android:Widget">
+        <item name="android:id">@android:id/background</item>
+        <item name="android:background">?android:attr/colorBackground</item>
+    </style>
+    <style name="Widget.TetrisAI.AppWidget.InnerView" parent="android:Widget">
+        <item name="android:background">?android:attr/colorBackground</item>
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+    </style>
+    <declare-styleable name="AppWidgetAttrs">
+        <attr format="dimension" name="appWidgetPadding"/>
+        <attr format="dimension" name="appWidgetInnerRadius"/>
+        <attr format="dimension" name="appWidgetRadius"/>
+    </declare-styleable>
+</resources>

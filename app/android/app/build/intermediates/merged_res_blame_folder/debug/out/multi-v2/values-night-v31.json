@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.rxt01.tetrisai.app-mergeDebugResources-38:/values-night-v31/values-night-v31.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Client\\Documents\\sacha\\programing\\c\\c++\\tetris\\android\\app\\src\\main\\res\\values-night-v31\\themes.xml",
+                    "from": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "166",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "476"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "365"
+                    }
+                }
+            ]
+        }
+    ]
+}

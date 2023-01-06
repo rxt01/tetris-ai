@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#1A1B26"
+    tools:context=".MainActivity">
+
+
+    <Button
+        android:id="@+id/buttonai"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/purple_200"
+        android:text="AI"
+        android:textColor="@color/teal_200"
+        app:layout_constraintEnd_toEndOf="@+id/buttonplay"
+        app:layout_constraintStart_toStartOf="@+id/buttonplay"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/buttonplay"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="122dp"
+        android:backgroundTint="@color/purple_200"
+        android:text="play"
+        android:textColor="@color/teal_200"
+        app:layout_constraintEnd_toEndOf="@+id/buttonsettings"
+        app:layout_constraintHorizontal_bias="0.3"
+        app:layout_constraintStart_toStartOf="@+id/buttonsettings"
+        app:layout_constraintTop_toBottomOf="@+id/buttonai" />
+
+    <Button
+        android:id="@+id/buttonupdate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="123dp"
+        android:backgroundTint="@color/purple_200"
+        android:text="update"
+        android:textColor="@color/teal_200"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/buttoncredit" />
+
+    <Button
+        android:id="@+id/buttonsettings"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="123dp"
+        android:backgroundTint="@color/purple_200"
+        android:text="settings"
+        android:textColor="@color/teal_200"
+        app:layout_constraintEnd_toEndOf="@+id/buttoncredit"
+        app:layout_constraintStart_toStartOf="@+id/buttoncredit"
+        app:layout_constraintTop_toBottomOf="@+id/buttonplay" />
+
+    <Button
+        android:id="@+id/buttoncredit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="123dp"
+        android:backgroundTint="@color/purple_200"
+        android:text="about"
+        android:textColor="@color/teal_200"
+        app:layout_constraintEnd_toEndOf="@+id/buttonupdate"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/buttonupdate"
+        app:layout_constraintTop_toBottomOf="@+id/buttonsettings" />
+</androidx.constraintlayout.widget.ConstraintLayout>
