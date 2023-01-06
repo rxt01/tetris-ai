@@ -5,7 +5,6 @@ beta(for 1.0){
 		
 	};
  	make the android version;
- 	make the installer;
  	add credits;
 }
 
@@ -13,5 +12,6 @@ release(1.x){
 	add a leaderboard;
 }
 beta(for 2.0){
+	make the installer;
 	make the ai part of the game;
-	make the play store version of the android version;
+}
