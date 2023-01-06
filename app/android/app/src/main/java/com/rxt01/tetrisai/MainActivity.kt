@@ -4,6 +4,7 @@ import android.content.Intent
 import android.net.Uri
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.widget.Toast
 import com.rxt01.tetrisai.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
@@ -25,8 +26,11 @@ class MainActivity : AppCompatActivity() {
             startActivity(intent)
         }
         binding.buttonai.setOnClickListener {
+            Toast.makeText(this, "Feature Not Implemented Yet", 1).show()
+            //this is only in the test build, remove before releasing//
             val intent = Intent(this, AIActivity::class.java)
             startActivity(intent)
+            //-------------------------------------------------------//
         }
         binding.buttoncredit.setOnClickListener {
             val intent = Intent(this, CreditActivity::class.java)
