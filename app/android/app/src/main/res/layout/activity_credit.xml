@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+    android:backgroundTint="@color/background"
+    tools:context=".CreditActivity">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="this project was made possible thanks to:"
+        android:textColor="@color/teal_200"
+        android:textSize="20sp"
+        android:textStyle="italic"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.231" />
+
+    <TextView
+        android:id="@+id/textversion"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="version: test-build-m-0.0.0"
+        android:textColor="@color/teal_200"
+        android:textSize="25sp"
+        android:textStyle="italic"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView2"
+        app:layout_constraintVertical_bias="0.968" />
+
+    <ImageView
+        android:id="@+id/rxt01logo"
+        android:layout_width="120dp"
+        android:layout_height="114dp"
+        app:layout_constraintBottom_toTopOf="@+id/textversion"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.149"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView2"
+        app:layout_constraintVertical_bias="0.103"
+        app:srcCompat="@drawable/icon" />
+
+    <TextView
+        android:id="@+id/textViewrxt01"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Rxt01"
+        android:textColor="@color/teal_200"
+        app:layout_constraintBottom_toTopOf="@+id/textversion"
+        app:layout_constraintEnd_toEndOf="@+id/rxt01logo"
+        app:layout_constraintStart_toStartOf="@+id/rxt01logo"
+        app:layout_constraintTop_toBottomOf="@+id/rxt01logo"
+        app:layout_constraintVertical_bias="0.04" />
+
+    <TextView
+        android:id="@+id/textViewproject"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="project manager"
+        android:textColor="@color/teal_200"
+        app:layout_constraintBottom_toTopOf="@+id/textversion"
+        app:layout_constraintEnd_toEndOf="@+id/rxt01logo"
+        app:layout_constraintHorizontal_bias="0.588"
+        app:layout_constraintStart_toStartOf="@+id/rxt01logo"
+        app:layout_constraintTop_toBottomOf="@+id/textViewrxt01"
+        app:layout_constraintVertical_bias="0.0" />
+    <!-- this is only in the test build, remove before releasing -->
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="this is a test build please do not distribute"
+        android:textSize="15sp"
+        android:textColor="@color/teal_200"
+        app:layout_constraintBottom_toTopOf="@+id/textversion"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView2"
+        app:layout_constraintVertical_bias="0.957" />
+    <!-- ****************************************************** -->
+
+</androidx.constraintlayout.widget.ConstraintLayout>
