@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.rxt01.tetrisai.app-mergeDebugResources-38:/values-it/values-it.xml",
+            "outputFile": "com.rxt01.tetrisai.app-mergeDebugResources-42:/values-it/values-it.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Client\\.gradle\\caches\\transforms-3\\13349a72089a0e262fd0ebc4c41c0693\\transformed\\navigation-ui-2.4.1\\res\\values-it\\values-it.xml",

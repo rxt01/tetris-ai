@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.rxt01.tetrisai.app-mergeDebugResources-38:/values-w600dp-v13/values-w600dp-v13.xml",
+            "outputFile": "com.rxt01.tetrisai.app-mergeDebugResources-42:/values-w600dp-v13/values-w600dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Client\\Documents\\sacha\\programing\\c\\c++\\tetris\\android\\app\\src\\main\\res\\values-w600dp\\dimens.xml",
+                    "source": "C:\\Users\\Client\\Documents\\sacha\\programing\\c\\c++\\tetris\\tetris-ai\\app\\android\\app\\src\\main\\res\\values-w600dp\\dimens.xml",
                     "from": {
                         "startLines": "1",
                         "startColumns": "4",

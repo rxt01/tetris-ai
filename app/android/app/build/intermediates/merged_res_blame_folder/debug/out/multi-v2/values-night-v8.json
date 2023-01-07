@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.rxt01.tetrisai.app-mergeDebugResources-38:/values-night-v8/values-night-v8.xml",
+            "outputFile": "com.rxt01.tetrisai.app-mergeDebugResources-42:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Client\\.gradle\\caches\\transforms-3\\35247393b79a5fe3c4f500e2adf3d76f\\transformed\\appcompat-1.5.1\\res\\values-night-v8\\values-night-v8.xml",
@@ -38,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Client\\Documents\\sacha\\programing\\c\\c++\\tetris\\android\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "source": "C:\\Users\\Client\\Documents\\sacha\\programing\\c\\c++\\tetris\\tetris-ai\\app\\android\\app\\src\\main\\res\\values-night\\themes.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

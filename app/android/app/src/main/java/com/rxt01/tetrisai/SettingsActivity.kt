@@ -42,7 +42,6 @@ class SettingsActivity : AppCompatActivity() {
         if (requestCode == 0 && grantResults.isNotEmpty()){
             for (i in grantResults.indices){
                 if (grantResults[i] == PackageManager.PERMISSION_GRANTED){
-                    Log.d("permission", "${permissions[i]} granted")
                 }else{
                     Toast.makeText(this, "permission needed to save the settings", 1).show()
                 }

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.rxt01.tetrisai.app-mergeDebugResources-38:/values-en-rXC/values-en-rXC.xml",
+            "outputFile": "com.rxt01.tetrisai.app-mergeDebugResources-42:/values-en-rXC/values-en-rXC.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Client\\.gradle\\caches\\transforms-3\\205feb206244c8c1b4b56fcdc8d69988\\transformed\\core-1.8.0\\res\\values-en-rXC\\values-en-rXC.xml",

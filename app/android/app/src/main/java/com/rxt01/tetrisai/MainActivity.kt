@@ -30,7 +30,7 @@ class MainActivity : AppCompatActivity() {
             //this is only in the test build, remove before releasing//
             val intent = Intent(this, AIActivity::class.java)
             startActivity(intent)
-            //-------------------------------------------------------//
+            //*******************************************************//
         }
         binding.buttoncredit.setOnClickListener {
             val intent = Intent(this, CreditActivity::class.java)

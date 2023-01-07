@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.rxt01.tetrisai.app-mergeDebugResources-38:/values-v31/values-v31.xml",
+            "outputFile": "com.rxt01.tetrisai.app-mergeDebugResources-42:/values-v31/values-v31.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Client\\.gradle\\caches\\transforms-3\\53edefe15d403f8467620aa121e38059\\transformed\\material-1.7.0\\res\\values-v31\\values-v31.xml",
@@ -23,26 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Client\\Documents\\sacha\\programing\\c\\c++\\tetris\\android\\app\\src\\main\\res\\values-v31\\themes.xml",
-                    "from": {
-                        "startLines": "6",
-                        "startColumns": "4",
-                        "startOffsets": "250",
-                        "endLines": "9",
-                        "endColumns": "12",
-                        "endOffsets": "560"
-                    },
-                    "to": {
-                        "startLines": "269",
-                        "startColumns": "4",
-                        "startOffsets": "25024",
-                        "endLines": "272",
-                        "endColumns": "12",
-                        "endOffsets": "25334"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Client\\Documents\\sacha\\programing\\c\\c++\\tetris\\android\\app\\src\\main\\res\\values-v31\\styles.xml",
+                    "source": "C:\\Users\\Client\\Documents\\sacha\\programing\\c\\c++\\tetris\\tetris-ai\\app\\android\\app\\src\\main\\res\\values-v31\\styles.xml",
                     "from": {
                         "startLines": "2,9",
                         "startColumns": "4,4",
@@ -58,6 +39,25 @@
                         "endLines": "370,376",
                         "endColumns": "12,12",
                         "endOffsets": "33247,33628"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Client\\Documents\\sacha\\programing\\c\\c++\\tetris\\tetris-ai\\app\\android\\app\\src\\main\\res\\values-v31\\themes.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "250",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "560"
+                    },
+                    "to": {
+                        "startLines": "269",
+                        "startColumns": "4",
+                        "startOffsets": "25024",
+                        "endLines": "272",
+                        "endColumns": "12",
+                        "endOffsets": "25334"
                     }
                 }
             ]

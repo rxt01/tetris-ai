@@ -47,16 +47,13 @@ abstract class Block{
             grid = Grid
             orientation = Orient
         }
-        Log.d("test", "check returned ${check(manager)}, grid= $grid, orientation = $orientation, x=$x, y=$y")
         add(manager)
-        Log.d("test", "spin works")
     }
     open fun check(manager: Manager): Boolean {
         for (i in grid.indices){
             for (j in grid[i].indices){
                 if (grid[i][j] != 0){
                     if (i+y<0 || 19<i+y || j+x<0||9<j+x|| manager.grid[i+y][j+x] !=0){
-                        Log.d("test", "check works")
                         return false
                     }
                 }

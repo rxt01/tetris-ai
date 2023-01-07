@@ -4,8 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#1A1B26"
-    android:backgroundTint="#1A1B26"
+    android:background="@color/background"
+    android:backgroundTint="@color/background"
     tools:context=".PlayActivity">
 
 
@@ -39,10 +39,10 @@
         android:layout_height="25dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.164"
+        app:layout_constraintHorizontal_bias="0.161"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.121"
+        app:layout_constraintVertical_bias="0.12"
         app:srcCompat="@mipmap/empty_foreground" />
 
     <ImageView
@@ -250,8 +250,6 @@
         app:layout_constraintTop_toTopOf="@+id/g1.0"
         app:layout_constraintVertical_bias="0.0"
         app:srcCompat="@mipmap/empty_foreground" />
-
-
 
 
     <ImageView
@@ -619,7 +617,6 @@
         app:srcCompat="@mipmap/empty_foreground" />
 
 
-
     <ImageView
         android:id="@+id/g5.2"
         android:layout_width="25dp"
@@ -861,8 +858,6 @@
         app:layout_constraintTop_toTopOf="@+id/g6.0"
         app:layout_constraintVertical_bias="0.0"
         app:srcCompat="@mipmap/empty_foreground" />
-
-
 
 
     <ImageView
@@ -1472,8 +1467,6 @@
         app:srcCompat="@mipmap/empty_foreground" />
 
 
-
-
     <ImageView
         android:id="@+id/g12.2"
         android:layout_width="25dp"
@@ -1839,7 +1832,6 @@
         app:srcCompat="@mipmap/empty_foreground" />
 
 
-
     <ImageView
         android:id="@+id/g15.2"
         android:layout_width="25dp"
@@ -2081,8 +2073,6 @@
         app:layout_constraintTop_toTopOf="@+id/g16.0"
         app:layout_constraintVertical_bias="0.0"
         app:srcCompat="@mipmap/empty_foreground" />
-
-
 
 
     <ImageView
@@ -2450,13 +2440,12 @@
         app:srcCompat="@mipmap/empty_foreground" />
 
 
-
-
     <com.google.android.material.floatingactionbutton.FloatingActionButton
         android:id="@+id/spin"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:clickable="true"
+        app:backgroundTint="@color/button_text"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.045"
@@ -2470,6 +2459,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:clickable="true"
+        app:backgroundTint="@color/button_text"
         app:layout_constraintBottom_toTopOf="@+id/spin"
         app:layout_constraintEnd_toEndOf="@+id/spin"
         app:layout_constraintHorizontal_bias="1.0"
@@ -2483,6 +2473,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:clickable="true"
+        app:backgroundTint="@color/button_text"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="@+id/down"
         app:layout_constraintHorizontal_bias="1.0"
@@ -2496,6 +2487,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:clickable="true"
+        app:backgroundTint="@color/button_text"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.943"
@@ -2509,7 +2501,7 @@
         android:layout_width="192dp"
         android:layout_height="46dp"
         android:text="score:0"
-        android:textColor="@color/teal_200"
+        android:textColor="@color/text"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="1.0"
@@ -2522,12 +2514,15 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
-        android:shadowColor="@color/teal_200"
+        android:layout_marginEnd="132dp"
+        android:shadowColor="@color/text"
         android:text="sound"
-        android:textColor="@color/teal_200"
-        android:thumbTint="@color/teal_200"
-        android:trackTint="@color/purple_200"
-        app:layout_constraintTop_toTopOf="parent"
-        tools:layout_editor_absoluteX="17dp" />
+        android:textColor="@color/text"
+        android:thumbTint="@color/text"
+        android:trackTint="@color/button_background"
+        app:layout_constraintEnd_toStartOf="@+id/textscore"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -29,9 +29,10 @@ class PlayActivity : AppCompatActivity() {
         binding = ActivityPlayBinding.inflate(layoutInflater)
         manager.Init()
         setContentView(binding.root)
+        playAudio(level)
         binding.soundToggle.setOnCheckedChangeListener { _, isChecked ->
             if (isChecked){
-                playAudio(1)
+                playAudio(level)
             }else{
                 stopAudio()
             }
@@ -93,12 +94,12 @@ class PlayActivity : AppCompatActivity() {
     private fun playAudio(level: Int) {
         mediaPlayer.stop()
         when(level){
-            1,2,3->mediaPlayer.setDataSource(this,Uri.parse("androi.resource://"+this.packageName+"/"+R.raw.level1_3))
-            4,5,6->mediaPlayer.setDataSource(this,Uri.parse("androi.resource://"+this.packageName+"/"+R.raw.level4_6))
-            7,8,9->mediaPlayer.setDataSource(this,Uri.parse("androi.resource://"+this.packageName+"/"+R.raw.level7_9))
-            10,11,12->mediaPlayer.setDataSource(this,Uri.parse("androi.resource://"+this.packageName+"/"+R.raw.level10_12))
-            13,14,15->mediaPlayer.setDataSource(this,Uri.parse("androi.resource://"+this.packageName+"/"+R.raw.level13_15))
-            else->mediaPlayer.setDataSource(this,Uri.parse("androi.resource://"+this.packageName+"/"+R.raw.infinity))
+            1,2,3->mediaPlayer.setDataSource(this,Uri.parse("android.resource://"+this.packageName+"/"+R.raw.level1_3))
+            4,5,6->mediaPlayer.setDataSource(this,Uri.parse("android.resource://"+this.packageName+"/"+R.raw.level4_6))
+            7,8,9->mediaPlayer.setDataSource(this,Uri.parse("android.resource://"+this.packageName+"/"+R.raw.level7_9))
+            10,11,12->mediaPlayer.setDataSource(this,Uri.parse("android.resource://"+this.packageName+"/"+R.raw.level10_12))
+            13,14,15->mediaPlayer.setDataSource(this,Uri.parse("android.resource://"+this.packageName+"/"+R.raw.level13_15))
+            else->mediaPlayer.setDataSource(this,Uri.parse("android.resource://"+this.packageName+"/"+R.raw.infinity))
         }
         mediaPlayer.prepare()
         mediaPlayer.start()

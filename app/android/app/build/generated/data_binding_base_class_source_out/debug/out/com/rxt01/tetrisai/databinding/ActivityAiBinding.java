@@ -4,7 +4,7 @@ package com.rxt01.tetrisai.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.TextView;
+import android.widget.Button;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.constraintlayout.widget.ConstraintLayout;
@@ -20,11 +20,11 @@ public final class ActivityAiBinding implements ViewBinding {
   private final ConstraintLayout rootView;
 
   @NonNull
-  public final TextView textView4;
+  public final Button AItrain;
 
-  private ActivityAiBinding(@NonNull ConstraintLayout rootView, @NonNull TextView textView4) {
+  private ActivityAiBinding(@NonNull ConstraintLayout rootView, @NonNull Button AItrain) {
     this.rootView = rootView;
-    this.textView4 = textView4;
+    this.AItrain = AItrain;
   }
 
   @Override
@@ -54,13 +54,13 @@ public final class ActivityAiBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
-      id = R.id.textView4;
-      TextView textView4 = ViewBindings.findChildViewById(rootView, id);
-      if (textView4 == null) {
+      id = R.id.AItrain;
+      Button AItrain = ViewBindings.findChildViewById(rootView, id);
+      if (AItrain == null) {
         break missingId;
       }
 
-      return new ActivityAiBinding((ConstraintLayout) rootView, textView4);
+      return new ActivityAiBinding((ConstraintLayout) rootView, AItrain);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

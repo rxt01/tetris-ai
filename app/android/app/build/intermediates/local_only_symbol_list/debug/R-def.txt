@@ -6,6 +6,8 @@ attr? appWidgetRadius
 color background
 color black
 color block_background
+color button_background
+color button_text
 color empty_background
 color ic_tetris_background
 color l1_background
@@ -22,6 +24,7 @@ color purple_700
 color t_background
 color teal_200
 color teal_700
+color text
 color white
 color z1_background
 color z2_background
@@ -34,8 +37,25 @@ drawable github_logo
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable icon
+id AItrain
 id FirstFragment
 id SecondFragment
+id a0.0
+id a0.1
+id a0.2
+id a0.3
+id a1.0
+id a1.1
+id a1.2
+id a1.3
+id a2.0
+id a2.1
+id a2.2
+id a2.3
+id a3.0
+id a3.1
+id a3.2
+id a3.3
 id action_FirstFragment_to_SecondFragment
 id action_SecondFragment_to_FirstFragment
 id button
@@ -48,6 +68,7 @@ id buttonsettings
 id buttonupdate
 id down
 id editTextFPS
+id frameLayout
 id g0.0
 id g0.1
 id g0.2
@@ -258,7 +279,6 @@ id spin
 id textView
 id textView2
 id textView3
-id textView4
 id textView6
 id textViewproject
 id textViewrxt01
@@ -270,6 +290,7 @@ layout activity_main
 layout activity_play
 layout activity_rxt01
 layout activity_settings
+layout fragment_nexts
 layout update_widget
 mipmap block
 mipmap block_foreground

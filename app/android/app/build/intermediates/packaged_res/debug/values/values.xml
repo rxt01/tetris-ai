@@ -3,6 +3,8 @@
     <color name="background">#FF1A1B26</color>
     <color name="black">#FF000000</color>
     <color name="block_background">#3DDC84</color>
+    <color name="button_background">#FFBB86FC</color>
+    <color name="button_text">#FF03DAC5</color>
     <color name="empty_background">#3DDC84</color>
     <color name="ic_tetris_background">#1A1B26</color>
     <color name="l1_background">#3DDC84</color>
@@ -19,6 +21,7 @@
     <color name="t_background">#3DDC84</color>
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
+    <color name="text">#FF03DAC5</color>
     <color name="white">#FFFFFFFF</color>
     <color name="z1_background">#3DDC84</color>
     <color name="z2_background">#3DDC84</color>
