@@ -56,9 +56,7 @@ int	LoadFiles(string version){
 			return -1;
 		}
 	}
-	string url = "https://github.com/rxt01/tetris-ai/raw/main/app/assets/characters/arial.ttf";
-	string path = "assets/characters/arial.ttf";
-	URLDownloadToFile(NULL, ConvertString(url), ConvertString(path), 0, NULL);
+	
 
 
 	#elif __linux__
