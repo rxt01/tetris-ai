@@ -688,8 +688,8 @@ public:
 		UpdateGrid(manager, Mode::remove);
 		Sgrid sgrid1 = { 0,0,0,0 };
 		Sgrid sgrid2 = { 0,0,0,0 };
-		Sgrid sgrid3 = { 0,1,1,0 };
-		Sgrid sgrid4 = { 0,0,1,1 };
+		Sgrid sgrid3 = { 1,1,0,0 };
+		Sgrid sgrid4 = { 0,1,1,0 };
 		Garray Grid = { sgrid1,sgrid2,sgrid3,sgrid4 };
 		bool spin = true;
 		CheckSpin(&spin, Grid, manager);
@@ -705,9 +705,9 @@ public:
 			break;
 		case Orientation::right:
 			sgrid1 = { 0,0,0,0 };
-			sgrid2 = { 0,0,1,0 };
-			sgrid3 = { 0,1,1,0 };
-			sgrid4 = { 0,1,0,0 };
+			sgrid2 = { 0,1,0,0 };
+			sgrid3 = { 1,1,0,0 };
+			sgrid4 = { 1,0,0,0 };
 			Grid = { sgrid1,sgrid2,sgrid3,sgrid4 };
 			spin = true;
 			CheckSpin(&spin, Grid, manager);
@@ -719,9 +719,9 @@ public:
 			break;
 		case Orientation::down:
 			sgrid1 = { 0,0,0,0 };
-			sgrid2 = { 0,0,0,0 };
+			sgrid2 = { 1,1,0,0 };
 			sgrid3 = { 0,1,1,0 };
-			sgrid4 = { 0,0,1,1 };
+			sgrid4 = { 0,0,0,0 };
 			Grid = { sgrid1,sgrid2,sgrid3,sgrid4 };
 			spin = true;
 			CheckSpin(&spin, Grid, manager);
@@ -789,9 +789,9 @@ public:
 			break;
 		case Orientation::right:
 			sgrid1 = { 0,0,0,0 };
-			sgrid2 = { 0,1,0,0 };
-			sgrid3 = { 0,1,1,0 };
-			sgrid4 = { 0,0,1,0 };
+			sgrid2 = { 1,0,0,0 };
+			sgrid3 = { 1,1,0,0 };
+			sgrid4 = { 0,1,0,0 };
 			Grid = { sgrid1,sgrid2,sgrid3,sgrid4 };
 			spin = true;
 			CheckSpin(&spin, Grid, manager);
@@ -803,9 +803,9 @@ public:
 			break;
 		case Orientation::down:
 			sgrid1 = { 0,0,0,0 };
-			sgrid2 = { 0,0,0,0 };
-			sgrid3 = { 0,1,1,0 };
-			sgrid4 = { 1,1,0,0 };
+			sgrid2 = { 0,1,1,0 };
+			sgrid3 = { 1,1,0,0 };
+			sgrid4 = { 0,0,0,0 };
 			Grid = { sgrid1,sgrid2,sgrid3,sgrid4 };
 			spin = true;
 			CheckSpin(&spin, Grid, manager);
@@ -844,9 +844,9 @@ class L1 : public Blocks
 public:
 	L1():Blocks() {
 		Sgrid sgrid1 = { 0,0,0,0 };
-		Sgrid sgrid2 = { 0,0,0,0 };
-		Sgrid sgrid3 = { 0,1,0,0 };
-		Sgrid sgrid4 = { 0,1,1,1 };
+		Sgrid sgrid2 = { 0,1,0,0 };
+		Sgrid sgrid3 = { 0,1,1,1 };
+		Sgrid sgrid4 = { 0,0,0,0 };
 		Garray Grid = { sgrid1,sgrid2,sgrid3,sgrid4 };
 		SetGrid(Grid);
 		SetOrient(Orientation::up);
@@ -855,9 +855,9 @@ public:
 	void  Spin(BlockManager* manager)  {
 		UpdateGrid(manager, Mode::remove);
 		Sgrid sgrid1 = { 0,0,0,0 };
-		Sgrid sgrid2 = { 0,1,1,0 };
-		Sgrid sgrid3 = { 0,1,0,0 };
-		Sgrid sgrid4 = { 0,1,0,0 };
+		Sgrid sgrid2 = { 0,0,1,1 };
+		Sgrid sgrid3 = { 0,0,1,0 };
+		Sgrid sgrid4 = { 0,0,1,0 };
 		Garray Grid = { sgrid1,sgrid2,sgrid3,sgrid4 };
 		bool spin = true;
 		CheckSpin(&spin, Grid, manager);
@@ -929,9 +929,9 @@ class L2 : public Blocks
 public:
 	L2():Blocks() {
 		Sgrid sgrid1 = { 0,0,0,0 };
-		Sgrid sgrid2 = { 0,0,0,0 };
-		Sgrid sgrid3 = { 0,0,0,1 };
-		Sgrid sgrid4 = { 0,1,1,1 };
+		Sgrid sgrid2 = { 0,0,0,1 };
+		Sgrid sgrid3 = { 0,1,1,1 };
+		Sgrid sgrid4 = { 0,0,0,0 };
 		Garray Grid = { sgrid1,sgrid2,sgrid3,sgrid4 };
 		SetGrid(Grid);
 		SetOrient(Orientation::up);
@@ -940,9 +940,9 @@ public:
 	void  Spin(BlockManager* manager)  {
 		UpdateGrid(manager, Mode::remove);
 		Sgrid sgrid1 = { 0,0,0,0 };
-		Sgrid sgrid2 = { 0,1,0,0 };
-		Sgrid sgrid3 = { 0,1,0,0 };
-		Sgrid sgrid4 = { 0,1,1,0 };
+		Sgrid sgrid2 = { 0,0,1,0 };
+		Sgrid sgrid3 = { 0,0,1,0 };
+		Sgrid sgrid4 = { 0,0,1,1 };
 		Garray Grid = { sgrid1,sgrid2,sgrid3,sgrid4 };
 		bool spin = true;
 		CheckSpin(&spin, Grid, manager);
@@ -987,9 +987,9 @@ public:
 			break;
 		case Orientation::left:
 			sgrid1 = { 0,0,0,0 };
-			sgrid2 = { 0,0,0,0 };
-			sgrid3 = { 0,0,0,1 };
-			sgrid4 = { 0,1,1,1 };
+			sgrid2 = { 0,0,0,1 };
+			sgrid3 = { 0,1,1,1 };
+			sgrid4 = { 0,0,0,0 };
 			Grid = { sgrid1,sgrid2,sgrid3,sgrid4 };
 			spin = true;
 			CheckSpin(&spin, Grid, manager);
@@ -1013,9 +1013,9 @@ class T : public Blocks
 public:
 	T():Blocks() {
 		Sgrid sgrid1 = { 0,0,0,0 };
-		Sgrid sgrid2 = { 0,0,0,0 };
-		Sgrid sgrid3 = { 0,0,1,0 };
-		Sgrid sgrid4 = { 0,1,1,1 };
+		Sgrid sgrid2 = { 0,0,1,0 };
+		Sgrid sgrid3 = { 0,1,1,1 };
+		Sgrid sgrid4 = { 0,0,0,0 };
 		Garray Grid = { sgrid1,sgrid2,sgrid3,sgrid4 };
 		SetGrid(Grid);
 		SetOrient(Orientation::up);
@@ -1024,9 +1024,9 @@ public:
 	void  Spin(BlockManager* manager)  {
 		UpdateGrid(manager, Mode::remove);
 		Sgrid sgrid1 = { 0,0,0,0 };
-		Sgrid sgrid2 = { 0,1,0,0 };
-		Sgrid sgrid3 = { 0,1,1,0 };
-		Sgrid sgrid4 = { 0,1,0,0 };
+		Sgrid sgrid2 = { 0,0,1,0 };
+		Sgrid sgrid3 = { 0,0,1,1 };
+		Sgrid sgrid4 = { 0,0,1,0 };
 		Garray Grid = { sgrid1,sgrid2,sgrid3,sgrid4 };
 		bool spin = true;
 		CheckSpin(&spin, Grid, manager);
@@ -1068,9 +1068,9 @@ public:
 			break;
 		case Orientation::left:
 			sgrid1 = { 0,0,0,0 };
-			sgrid2 = { 0,0,0,0 };
-			sgrid3 = { 0,0,1,0 };
-			sgrid4 = { 0,1,1,1 };
+			sgrid2 = { 0,0,1,0 };
+			sgrid3 = { 0,1,1,1 };
+			sgrid4 = { 0,0,0,0 };
 			Grid = { sgrid1,sgrid2,sgrid3,sgrid4 };
 			spin = true;
 			CheckSpin(&spin, Grid, manager);

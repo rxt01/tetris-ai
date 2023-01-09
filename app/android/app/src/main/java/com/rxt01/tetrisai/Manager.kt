@@ -96,6 +96,7 @@ class Manager {
         nexts3.addLast(nexts[0])
         nexts3.addLast(nexts[1])
         nexts3.addLast(nexts[2])
+        list[list.lastIndex].add(this)
     }
 
     fun Init(){

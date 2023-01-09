@@ -4,6 +4,7 @@ import android.util.Log
 
 abstract class Block{
     abstract var grid: MutableList<MutableList<Int>>
+    //need to change the implementations such that the pieces spin the correct way
     abstract fun spin()
     open var orientation:Orientation = Orientation.UP
     open var x:Int =3
@@ -78,9 +79,12 @@ abstract class Block{
         y++
         if(!check(manager)){
             y--
+
             if(!settled){
                 settled = true
+                add(manager)
                 manager.new()
+                return
             }
         }
         add(manager)
